@@ -1,3 +1,5 @@
+use std::prelude::v1::*;
+
 /// Normalize the given character name in place according to UAX44-LM2.
 ///
 /// See: http://unicode.org/reports/tr44/#UAX44-LM2

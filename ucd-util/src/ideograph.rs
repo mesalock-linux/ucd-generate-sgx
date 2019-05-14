@@ -1,3 +1,5 @@
+use std::prelude::v1::*;
+
 /// A set of ranges that corresponds to the set of all ideograph codepoints.
 ///
 /// These ranges are defined in Unicode 4.8 Table 4-13.
